@@ -1,2 +1,3 @@
-# Blog
-Personal Blog.
+# Personal Website
+
+Copied from Chet Ramey's Website
